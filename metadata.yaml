@@ -22,6 +22,8 @@ description: "The Jucklins is an 1896 novel by Opie Read. It was a best selling 
   \ & Lee. He needed the cash to pay off a poker debt. A sequel of sorts, Old Lim\
   \ Jucklin was released in 1905, and consists of a \"collection of random observations\
   \ and humors in the cracker-box philosopher manner.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26499#The-Jucklins--A-Novel
 gutenberg_issued: '2008-08-31'
 gutenberg_type: Text
 identifiers:

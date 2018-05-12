@@ -1,0 +1,42 @@
+_repo: The-Jucklins--A-Novel_26499
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26499-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Read, Opie Percival
+    alias: Read, Opie P.
+    birthdate: 1852
+    deathdate: 1939
+    gutenberg_agent_id: '8387'
+    url: http://www.gutenberg.org/2009/agents/8387
+    wikipedia: http://en.wikipedia.org/wiki/Opie_Read
+description: "The Jucklins is an 1896 novel by Opie Read. It was a best selling book\
+  \ in the United States, (Read asserted that over one million copies were sold) though\
+  \ it never appeared on the best-sellers list in The Bookman since its early and\
+  \ primary sales were of cheap paperback copies sold on trains and at newsstands.\n\
+  The story is set in the backwoods of North Carolina. Teacher Bill Hawes lives with\
+  \ the Jucklins,a local farming family, including father Lim Jucklin, daughter Guinea\
+  \ and son Alf.\nRead reported that he sold the book for $700 to publisher Laird\
+  \ & Lee. He needed the cash to pay off a poker debt. A sequel of sorts, Old Lim\
+  \ Jucklin was released in 1905, and consists of a \"collection of random observations\
+  \ and humors in the cracker-box philosopher manner.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26499'
+  lccn: '07036502'
+  wikidata: Q7743737
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Carolina -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mountain people -- North Carolina -- Fiction'
+title: 'The Jucklins: A Novel'
+url: http://www.gutenberg.org/ebooks/26499
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Jucklins
